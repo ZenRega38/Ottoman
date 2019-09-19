@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Khilafah Utsmaniyah</string>
+    <string name="khilafahk">Nama Khilafah</string>
+    <string name="detailk">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="title">Title</string>
+    <string name="informasi_detail">Biografi Pemerintahan</string>
+
+</resources>
